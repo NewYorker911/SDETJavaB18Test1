@@ -8,7 +8,7 @@ public class E11StringDemo {
         System.out.println(number);
 
         ///////////////////////////////////////////////////////////
-        
+
         StringBuilder stringBuilder=new StringBuilder("Java");
         System.out.println(stringBuilder);
 
