@@ -1,21 +1,9 @@
 package Replit;
 
 public class Rep1{
-    public static void main(String[] args) {
+    public static void main(String args[]) {
 
-        int m=2, total=0;
-
-        while(m<6) {
-
-            total=total+m;
-
-            m++;
-
-        }
-
-        System.out.print(total);
-
-
-        }
-
+            String str_Sample = "RockStar";
+            System.out.println("EndsWith character 'r': " + str_Sample.endsWith("r"));
     }
+}
